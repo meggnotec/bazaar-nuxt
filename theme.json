@@ -1,0 +1,32 @@
+{
+  "name": "Bazaar — Fashion Ecommerce Nuxt Theme",
+  "slug": "bazaar-nuxt-theme",
+  "platform": "nuxt",
+  "type": "template",
+  "description": "A vibrant fashion ecommerce theme built with Nuxt 3, Vue 3, and Tailwind CSS v4. 34 pages, 49 components, dark mode, i18n.",
+  "features": [
+    "34 fully designed pages",
+    "49 reusable Vue 3 components",
+    "Nuxt 3 with Vue 3 Composition API",
+    "Pinia stores for cart, wishlist, and compare",
+    "Static generation via nuxi build",
+    "Tailwind CSS v4 with custom design system",
+    "Dark mode with toggle",
+    "RTL support for Arabic",
+    "3 languages (EN, FR, AR)",
+    "@nuxt/content for blog",
+    "useSeoMeta composable for SEO",
+    "TypeScript strict mode",
+    "Product filtering and sorting",
+    "Quick view modal",
+    "Mega menu navigation",
+    "Newsletter popup",
+    "Size guide with measurement diagrams",
+    "Product comparison table",
+    "Multi-step checkout wizard",
+    "Responsive at 320px to 1440px"
+  ],
+  "price": "$59.00",
+  "demoUrl": "",
+  "category": "nuxt-themes"
+}
